@@ -66,6 +66,7 @@ GanttMaster/
 - **JavaScript**: Implementing EDF and RMA algorithms, real-time chart generation  
 
 ---
+Deploy link :- https://gantt-master-gantt-chart-generator-for-edf-rma.vercel.app/
 
 ## 📬 Contact
 
