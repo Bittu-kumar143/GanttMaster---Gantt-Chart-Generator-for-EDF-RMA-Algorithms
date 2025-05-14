@@ -61,8 +61,8 @@ GanttMaster/
 
 ## 💻 Technologies Used
 
-- **HTML**: Structure of the webpage  
-- **CSS**: Styling the UI and Gantt chart  
+- **HTML5**: Structure of the webpage  
+- **CSS3**: Styling the UI and Gantt chart  
 - **JavaScript**: Implementing EDF and RMA algorithms, real-time chart generation  
 
 ---
