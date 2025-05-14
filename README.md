@@ -68,7 +68,16 @@ GanttMaster/
 ---
 Deploy link :- https://gantt-master-gantt-chart-generator-for-edf-rma.vercel.app/
 
+Scrennshots :-
+
+![Screenshot (612)](https://github.com/user-attachments/assets/08ea63b4-9ea0-42c1-a9c9-cf569eb47fdd)
+
+![Screenshot (613)](https://github.com/user-attachments/assets/ef14b543-bbed-4a15-8316-6e24404aee6a)
+
+![Screenshot (614)](https://github.com/user-attachments/assets/8a546665-2b68-4dd6-a96a-23b1b61e2a05)
+
 ## 📬 Contact
 
 - **GitHub**: [Bittu-kumar](https://github.com/Bittu-kumar143)  
 - **Email**: [bittukum59@gmail.com](mailto:bittukum59@gmail.com)
+
